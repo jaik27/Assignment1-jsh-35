@@ -1,0 +1,17 @@
+[33mcommit 744417c55de27874cc76495499373f006e019019[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jaimin Shah <shahj5@student.douglascollege.ca>
+Date:   Mon Sep 18 18:32:31 2023 -0700
+
+    Add child classes
+
+[33mcommit 8d154992cdf3d12438dbc62d4818494b5cd3cd76[m
+Author: Jaimin Shah <shahj5@student.douglascollege.ca>
+Date:   Mon Sep 18 18:24:02 2023 -0700
+
+    Add parent class Book
+
+[33mcommit a71bc720f765c71819babe5d16a5bc4084698f42[m
+Author: Jaimin Shah <shahj5@student.douglascollege.ca>
+Date:   Mon Sep 18 17:55:26 2023 -0700
+
+    Add .gitignore

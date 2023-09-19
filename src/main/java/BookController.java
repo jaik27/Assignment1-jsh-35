@@ -26,7 +26,7 @@ public class BookController {
         model.addAttribute("fictionBookInfo", fictionBookInfo);
         model.addAttribute("nonFictionBookInfo", nonFictionBookInfo);
 
-        return "AssignmentView-jsh-35";
+        return "BookView";
     }
 }
 
